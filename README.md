@@ -1,8 +1,5 @@
 Hi there 👋 I'm Revanth
 
-
-**revanth-coder99/revanth-coder99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🧑‍🎓 I'm currently pursuing my BTech CSE in NIT Silchar
