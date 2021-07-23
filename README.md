@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about HTML,CSS,C++,C,DSA.
 - 📫 How to reach me revanthpalukuri@gmail.com
 - <br>
-- <img align="left" alt="Revanth code status" src="https://github-readme-stats-.vercel.api/api?username=revanth-coder99 &show_icons=true &hide_border=true">
+- 
