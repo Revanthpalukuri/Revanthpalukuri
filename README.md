@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Java Script
 - 👯 I’m looking to collaborate on projects
 - 💬 Ask me about HTML,CSS,C++,C,DSA.
-- 📫 How to reach me revanthpalukuri@gmail.com 
-
+- 📫 How to reach me revanthpalukuri@gmail.com
+- <p> <img align="right" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" alt="no" width="500px" height="350px"> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/revanth-palukuri-500917217/?originalSubdomain=in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/revanth-palukuri-500917217/?originalsubdomain=in" height="30" width="40" /></a>
