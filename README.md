@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👀 I'm interested in MERN Stack Web Development.
 - 🌱 I’m currently learning Java Script
 - 👯 I’m looking to collaborate on projects
-- 💬 Ask me about C++,C,DSA.
+- 💬 Ask me about C++,DSA.
 - 📫 How to reach me revanthpalukuri@gmail.com
  
 <h3 align="left">Connect with me:</h3>
